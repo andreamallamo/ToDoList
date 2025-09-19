@@ -23,6 +23,5 @@ It allows you to add tasks, delete them, and keeps the UI clean with a modern re
 ---
 
 
-## 📸 Preview
-<img width="2518" height="1283" alt="screenshot1" src="https://github.com/user-attachments/assets/daec01cd-a49c-4f6a-ac0c-a864756c0a07" />
-<img width="2518" height="1283" alt="immagine_2025-09-19_192959831" src="https://github.com/user-attachments/assets/4cce174d-919c-490c-a605-3c0fb7979ae5" />
+## 🌍 Live Demo
+👉 [Click here to try the app](https://andreamallamo.github.io/ToDoList/)
